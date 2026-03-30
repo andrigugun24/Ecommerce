@@ -1,0 +1,70 @@
+=========================================================
+      T O P G U N | PANDUAN OPERASIONAL WEBSITE
+=========================================================
+
+Buku manual ini dirancang untuk memberikan instruksi lengkap mengenai penggunaan fitur-fitur di website E-Commerce TopGun, baik untuk pelanggan maupun operator administrasi.
+
+---------------------------------------------------------
+1. PANDUAN PENGGUNA (PELANGGAN)
+---------------------------------------------------------
+Menu Utama:
+- Beranda: Ringkasan koleksi terbaru dan fitur unggulan.
+- Kategori: Akses cepat ke jenis senjata tertentu.
+- Katalog: Daftar lengkap seluruh unit persenjataan yang tersedia.
+- Gear: Perlengkapan taktis, optik, dan amunisi.
+- Panduan Legal: Informasi krusial mengenai syarat kepemilikan senjata.
+
+Fitur Katalog & Pembelian:
+- Filter: Gunakan tab filter (Handguns, Rifles, dll) untuk menyaring unit berdasarkan kategori.
+- Detail Unit: Klik pada kartu produk untuk melihat spesifikasi teknis mendalam (kaliber, pabrikan, jarak efektif, berat).
+- Tambah ke Keranjang: Klik ikon '+' atau tombol 'Beli' untuk memasukkan unit ke daftar belanja.
+- Pencarian: Klik ikon kaca pembesar di navigasi atas untuk mencari unit berdasarkan nama atau model.
+
+Prosedur Legalitas (PENTING):
+Seluruh calon pembeli wajib memahami 3 langkah legalitas utama:
+1. Keanggotaan PERBAKIN: Wajib memiliki KTA klub resmi.
+2. Uji Psikologi & Kesehatan: Tes resmi dari Pusdokkes Polri.
+3. Izin Khusus Senjata Api (IKSA): Pengajuan ke Baintelkam Mabes Polri.
+
+Checkout & Invoice:
+- Setelah konfirmasi pembayaran, sistem akan menyediakan modal Invoice.
+- Gunakan fitur 'Cetak Invoice' untuk arsip fisik transaksi Anda.
+
+---------------------------------------------------------
+2. PANDUAN ADMIN (OPERATOR LOGISTIK)
+---------------------------------------------------------
+Akses Admin:
+- File Utama: admin.html
+- Kredensial Akses:
+  * Username: topgun
+  * Password: 123
+
+Dashboard Operasional:
+Dashboard admin dibagi menjadi dua modul utama:
+
+A. Laporan Penjualan:
+- Memantau total pendapatan dan unit terjual secara real-time.
+- Tabel Transaksi: Detail ID transaksi, nama klien, unit yang dibeli, tanggal, dan status (Lunas, Proses Lisensi, Menunggu Kurir).
+- Cetak Laporan: Klik tombol 'Cetak Laporan' untuk mengekspor data penjualan ke format fisik/PDF.
+
+B. Manajemen Senjata (Inventory):
+- Gunakan formulir ini untuk menambahkan stok persenjataan baru ke dalam katalog.
+- Data yang diperlukan: Nama, Kategori, Pabrikan, Negara, Kaliber, Harga, Berat, Jarak Efektif, dan URL Gambar.
+- Klik 'Simpan Arsip Senjata' untuk memperbarui database website.
+
+---------------------------------------------------------
+3. KEAMANAN & ETIKA PENGGUNAAN
+---------------------------------------------------------
+- Privasi: Seluruh data transaksi dienkripsi dengan protokol tingkat militer.
+- 4 Aturan Keselamatan:
+  1. Perlakukan selalu senjata seolah-olah terisi.
+  2. Jangan arahkan laras ke sasaran yang tidak ingin dihancurkan.
+  3. Jari tetap di luar pelatuk sampai siap menembak.
+  4. Kenali target dan apa yang ada di baliknya.
+
+---------------------------------------------------------
+Support & Layanan Pelanggan:
+Silakan hubungi markas pusat melalui fitur 'Konsultasi Ahli' pada halaman beranda untuk pertanyaan teknis atau bantuan legalitas.
+
+T O P G U N - Precision. Power. Dominance.
+=========================================================
